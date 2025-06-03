@@ -1,3 +1,31 @@
+## Bio
+I am a Ph.D. candidate in Electrical Engineering at the University of Notre Dame, working with Prof. Thomas O’Sullivan. My research focuses on the design and development of compact, wearable frequency-domain near-infrared spectroscopy (FD-NIRS) systems. I specialize in analog/digital hardware design, embedded systems, PCB development, and optoelectronic integration for real-time tissue imaging. I’ve collaborated with cross-institutional teams including UC Irvine and industry partners on ASIC validation and brain imaging system development. I’m currently seeking full-time roles in hardware design, embedded systems, or medical device R&D.
+
+## Projects
+Project 1: Wearable FD-NIRS System
+Description: Designed and prototyped a compact, wearable FD-NIRS system integrating a custom CMOS ASIC, high-speed analog front-end, VCSEL sources, and SiPM photodetectors.
+
+Highlights:
+Multi-layer PCB design with power/RF/analog isolation
+Real-time tissue hemodynamic monitoring
+Collaboration with UC Irvine for ASIC integration
+
+Project 2: High-Density Brain Imaging Array
+Description: Developing a modular, scalable 16x16 source-detector array for high-density brain imaging applications.
+
+Highlights:
+Simultaneous RF/DC switching
+Multi-tile synchronization and data streaming
+Custom firmware for VNA automation
+
+### Skills & Tools
+**Hardware Design**: PCB layout (Altium, KiCad, OrCAD), analog/digital/mixed-signal design, signal integrity, hardware validation  
+**Embedded Systems**: ESP32, STM32, Verilog, embedded C/C++, I2C, SPI, UART  
+**Software & Tools**: MATLAB, Python, LabVIEW, Git, Power BI  
+**Optoelectronics**: VCSELs, SiPMs, APDs, optical imaging systems  
+**Measurement Tools**: Oscilloscope, Logic Analyzer, VNA, TDR  
+**Design Standards**: IPC-2221, IPC-A-610, FMEA  
+
 ## Summary
 - 5 years of hands-on experience in analog and digital circuit design. PCB design, assembling, and troubleshooting
 - 3 years of experience in ASIC CMOS chip RF characterization and developed a wearable prototype for non-invasive imaging
